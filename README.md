@@ -31,7 +31,7 @@ Python
 
 ### Where am I
 All over the place, but mostly in
-🇳🇱 The Netherlandds
+🇳🇱 The Netherlands
 🇧🇬 Bulgaria
 🇬🇧 United Kingdom
 <br />
