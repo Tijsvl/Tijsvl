@@ -1,4 +1,4 @@
-Hey! I'm Tijs! Am I a programmer or a photographer? I guess both!
+Hey, I'm Tijs! Am I a programmer or a photographer? I guess both!
 
 
 <br />
