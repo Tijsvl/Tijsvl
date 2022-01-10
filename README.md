@@ -1,7 +1,6 @@
 Hey, I'm Tijs! Am I a programmer or a photographer? I guess both!
 
-
-<br />
+---
 
 ### My Languages
 HTML5 | 
@@ -14,10 +13,12 @@ Node.js |
 PHP | 
 MySQL | 
 Python
-
 <br />
 
-### Connect with me:
+---
+
+
+### Connect with me
 [<img align="left" alt="tijsvl.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tijsvl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="tijsvl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,15 +26,17 @@ Python
 [<img align="left" alt="lookwhatiso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagramlookwhatiso]
 
 <br />
-<br />
 
-### Where am I?
+---
+
+### Where am I
 All over the place, but mostly in
 🇳🇱 The Netherlandds
 🇧🇬 Bulgaria
 🇬🇧 United Kingdom
-
 <br />
+
+---
 
 ### Spare time:
 ⚽ I play football for 3 different teams!<br />
