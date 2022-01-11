@@ -35,10 +35,11 @@ Python
 ---
 
 ### Where am I
-All over the place, but mostly in
-🇳🇱 The Netherlands
-🇧🇬 Bulgaria
-🇬🇧 United Kingdom
+All over the place, but mostly in<br />
+
+<img align="left" alt="Flag of The Netherlands" title="The Netherlands" width="28px" src="https://tijsvl.net/Qlibpk7E/git/nl.svg#2" />
+<img align="left" alt="Flag of Bulgaria" title="Bulgaria" width="28px" src="https://tijsvl.net/Qlibpk7E/git/bg.svg#2" />
+<img align="left" alt="Flag of United Kingdom" title="United Kingdom" width="28px" src="https://tijsvl.net/Qlibpk7E/git/gb.svg#2" />
 <br />
 
 ---
