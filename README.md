@@ -5,18 +5,19 @@ Hey, I'm Tijs! Am I a programmer or a photographer? I guess both!
 ### My Languages
 HTML5 | 
 CSS3 | 
+SCSS | 
 SASS | 
 JavaScript | 
-TypeScript |
+TypeScript | 
 React.js | 
 Next.js | 
 Node.js | 
 PHP | 
+Python | 
 MySQL | 
-MongoDB |
-Firebase |
-GraphQL |
-Python
+MongoDB | 
+Firebase | 
+GraphQL
 <br />
 
 ---
