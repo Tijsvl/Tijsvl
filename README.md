@@ -7,11 +7,15 @@ HTML5 |
 CSS3 | 
 SASS | 
 JavaScript | 
+TypeScript |
 React.js | 
 Next.js | 
 Node.js | 
 PHP | 
 MySQL | 
+MongoDB |
+Firebase |
+GraphQL |
 Python
 <br />
 
