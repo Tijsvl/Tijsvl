@@ -11,6 +11,8 @@ JavaScript |
 TypeScript | 
 React.js | 
 Next.js | 
+Svelte |
+SvelteKit |
 Node.js | 
 PHP | 
 Python | 
