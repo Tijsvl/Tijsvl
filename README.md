@@ -4,9 +4,8 @@ Hey, I'm Tijs! Am I a programmer or a photographer? I guess both!
 
 ### My Languages
 HTML5 | 
-CSS3 | 
+CSS | 
 SCSS | 
-SASS | 
 JavaScript | 
 TypeScript | 
 React.js | 
