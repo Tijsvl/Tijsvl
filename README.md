@@ -50,7 +50,7 @@ All over the place, but mostly in<br />
 ---
 
 ### Spare time:
-⚽ I play football for 3 different teams!<br />
+⚽ Football player<br />
 🏃 Run to stay fit!<br />
 🧳 I always want to see more of the world!<br />
 ⛰️ Love nature!<br />
